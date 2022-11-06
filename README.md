@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @IoannisNezis
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on smething
-- 📫 How to reach me: say my name three times
+- 👀 I’m interested in Django, Phoenix, DevOps, Serverless
+- 🌱 I’m currently learning Arch
+- 💞️ I’m looking to collaborate on a art related web platform
 
 <!---
 IoannisNezis/IoannisNezis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
