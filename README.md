@@ -1,15 +1,9 @@
-Welcome to my GitHub profile! I'm so glad you're here.
+# Hi there 👋  
 
-Here, you'll find all sorts of projects that I've been working on, ranging from the useful to the completely absurd. But let's be real, you're here for the absurdity.
+I'm a developer passionate about building tools and exploring innovative technologies.  
 
-In my spare time, I like to code random things and see what happens. Sometimes it's a beautiful mess and sometimes it's a beautiful disaster. Either way, it's always a good time.
-
-So take a look around, have a laugh, and if you're feeling adventurous, feel free to fork one of my projects and see what kind of trouble you can get into.
-
-Just don't blame me when your computer catches on fire.
-
-Cheers!
-<!---
-IoannisNezis/IoannisNezis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Current Interests  
+- 🌐 **Language Servers**: Building a **SPARQL language server** called [**Qlue-ls**](https://github.com/IoannisNezis/Qlue-ls)  
+- 🧩 **WebAssembly**: Writing performant modules with **wasm-bindgen** and integrating them into web projects.  
+- 📊 **Data Visualization**: Crafting interactive experiences using **D3.js**.  
+- 💻 **Frontend Development**: Enhancing user interfaces with **Svelte** and **Tailwind CSS**.  
