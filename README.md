@@ -7,6 +7,7 @@ I'm a developer passionate about building tools and exploring innovative technol
 - 🔗 **Liked Data**
 - 🌐 **Language Servers**
 - 🦀 **Rust**
+- 🐧 **Linux**
 - 📊 **Data Visualization**
 - 💻 **Frontend Development**
 
