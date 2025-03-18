@@ -14,4 +14,4 @@ I'm a developer passionate about building tools and exploring innovative technol
 ### Current Project
 
 I am currently building a **SPARQL language server** called [**Qlue-ls**](https://github.com/IoannisNezis/Qlue-ls).  
-As a sub-project of **Qlue-ls** im bulding a [**LL-SPARQL-parser**](https://github.com/IoannisNezis/ll-sparql-parser).
+As a sub-project of **Qlue-ls** im bulding a [**LL-SPARQL-parser**](https://github.com/IoannisNezis/Qlue-ls/tree/main/parser).
