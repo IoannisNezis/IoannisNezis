@@ -4,7 +4,7 @@ I'm a developer passionate about building tools and exploring innovative technol
 
 ### Current Interests  
 
-- 🔗 **Liked Data**
+- 🔗 **Linked Data**
 - 🌐 **Language Servers**
 - 🦀 **Rust**
 - 🐧 **Linux**
