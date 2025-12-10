@@ -14,4 +14,11 @@ I'm a developer passionate about building tools and exploring innovative technol
 ### Current Project
 
 I am currently building a **SPARQL language server** called [**Qlue-ls**](https://github.com/IoannisNezis/Qlue-ls).  
-As a sub-project of **Qlue-ls** im bulding a [**LL-SPARQL-parser**](https://github.com/IoannisNezis/Qlue-ls/tree/main/parser).
+
+### Some numbers
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)
