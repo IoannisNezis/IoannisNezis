@@ -7,6 +7,7 @@ I'm a developer passionate about building tools and exploring innovative technol
 - 🔗 **Linked Data**
 - 🌐 **Language Servers**
 - 🦀 **Rust**
+- 🦅 **The roman empire**
 - 🐧 **Linux**
 - 📊 **Data Visualization**
 - 💻 **Frontend Development**
