@@ -17,7 +17,7 @@ I'm a developer passionate about building tools and exploring innovative technol
 ## Current Project
 
 I am currently building a **SPARQL language server** called [**Qlue-ls**](https://github.com/IoannisNezis/Qlue-ls).  
-Since a great language server deserves a great UI, I'm developing a SPARQL editor (to be published soon).
+Since a great language server deserves a great UI, I'm developing a SPARQL editor [**Qlue-ui**](https://github.com/qlever-dev/qlue-ui).
 
 ## Stats
 
